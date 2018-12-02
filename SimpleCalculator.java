@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 
 public class SimpleCalculator extends JFrame implements ActionListener {
 
-	/* dung de bieu dien 4 nut cua 4 phep toan +,-,*, */ ;
+	/* dung de bieu dien 4 nut cua 4 phep toan +,-,*,/ */ ;
 	private JButton bt1, bt2, bt3, bt4;
 	/* Dung de chua 2 so va mot ket qua */
 	private JTextField tf1, tf2, tf3;
